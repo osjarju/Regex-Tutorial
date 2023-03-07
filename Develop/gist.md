@@ -19,6 +19,7 @@ The regular expression ^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)
 - [Boundaries](#boundaries)
 - [Back-references](#back-references)
 - [Look-ahead and Look-behind](#look-ahead-and-look-behind)
+- [Author](#author)
 
 ## Regex Components
 The regex expression ^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$ consists of several components that work together to match properly formatted URLs:
@@ -130,4 +131,4 @@ Overall, the absence of look-ahead and look-behind assertions in the expression 
 ## Author
 I am a passionate and enthusiastic software developer who is dedicated to continuous learning and growth in the field. With a keen interest in technology and innovation, I bring a fresh perspective to my work and I am always eager to collaborate with others to tackle complex challenges. 
 
-You contact me via GitHub - https://github.com/osjarju
+You may contact me via GitHub - https://github.com/osjarju
